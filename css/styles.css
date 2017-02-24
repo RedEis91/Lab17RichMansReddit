@@ -1,0 +1,36 @@
+#header {
+  background-color: #1d7a99;
+  text-align: center;
+  color: white;
+
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+.post {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+    box-shadow: 5px 5px 5px grey;
+}
+.title {
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url("../confectionary.png");
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
+    display: inline;
+}
+
+h1 {
+    display: inline-block;
+}
